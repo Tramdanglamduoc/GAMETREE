@@ -107,10 +107,3 @@ GAMETREE/
 └── Report/            # Assignment report (PDF)
 ```
 
----
-
-## Team
-
-Developed by Team 26 — Riga Technical University, 2024/2025  
-Course: Fundamentals of Artificial Intelligence  
-Instructor: Alla Anohina-Naumeca
